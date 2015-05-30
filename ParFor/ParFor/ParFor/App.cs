@@ -20,7 +20,7 @@ namespace ParFor
                     Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "So this is what it's like to be in a marching band..."
+							Text = "So this is what it's like to be in a marching band!!"
 						}
 					}
                 }
